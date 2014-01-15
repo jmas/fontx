@@ -1,7 +1,7 @@
 Fontx
 =====
 
-Fontx - JavaScript library for dynamic font preload.
+Fontx - JavaScript library for dynamic font load/initializing with onload/onerror hendlers support.
 
 Example
 =======
