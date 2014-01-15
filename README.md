@@ -1,7 +1,7 @@
 Fontx
 =====
 
-Fontx - JavaScript library for dynamic font load/initializing with onload/onerror hendlers support.
+Fontx - JavaScript library for dynamic font loading / initializing with onload / onerror hendlers support.
 
 Example
 =======
